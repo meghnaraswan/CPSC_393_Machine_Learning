@@ -1,1 +1,1 @@
-# CPSC_393_Machine_Learning
+# CPSC 393 Machine Learning
