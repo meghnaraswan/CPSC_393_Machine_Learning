@@ -1,5 +1,7 @@
 local
 venv
+venv2
+venv*
 .cache
 *.bin
 .DS_Store
@@ -132,11 +134,14 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.venv2
 env/
 venv/
+venv2/
 ENV/
 env.bak/
 venv.bak/
+venv2.bak/
 
 # Spyder project settings
 .spyderproject
